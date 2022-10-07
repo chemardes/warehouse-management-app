@@ -18,6 +18,7 @@ Features within the app
 4. Update stock quantities
 5. Displays sales report
 6. Records purchases
+7. App Termination
 
 Example Screenshots of the app
 -------------------
