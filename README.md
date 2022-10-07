@@ -24,4 +24,5 @@ Example Screenshots of the app
 Product Listing
 ![image](https://user-images.githubusercontent.com/100764960/194437048-f7b72646-650e-44e4-9fca-2bf48cae563a.png)
 Stock Quantity Update
+
 ![image](https://user-images.githubusercontent.com/100764960/194437170-497641ca-fc46-40bc-b314-3ab0332a5d26.png)
